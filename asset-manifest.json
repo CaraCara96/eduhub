@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eduhub/static/css/main.0ba4775e.css",
+    "main.js": "/eduhub/static/js/main.b219ce26.js",
+    "static/media/mission3.jpg": "/eduhub/static/media/mission3.1428d442214e8578c3d9.jpg",
+    "static/media/mission2.jpg": "/eduhub/static/media/mission2.7f05c02dfa1810d79079.jpg",
+    "static/media/memberpage.jpg": "/eduhub/static/media/memberpage.41e677c3a7dc8648ee7d.jpg",
+    "static/media/servicespage.jpg": "/eduhub/static/media/servicespage.648878cf7af41d10a010.jpg",
+    "static/media/education.png": "/eduhub/static/media/education.7fcff09c8ad28e04a60b.png",
+    "static/media/contactpage.jpg": "/eduhub/static/media/contactpage.cf1685dd66e50f59aa81.jpg",
+    "static/media/mission1.jpg": "/eduhub/static/media/mission1.bfc2b493fec8d16f0f94.jpg",
+    "static/media/aboutus.png": "/eduhub/static/media/aboutus.2d31e08884c0b28dfaee.png",
+    "static/media/logo.png": "/eduhub/static/media/logo.cd813f2f50ae2a06e15f.png",
+    "static/media/ehz.png": "/eduhub/static/media/ehz.b63343e8292b863470a6.png",
+    "index.html": "/eduhub/index.html",
+    "main.0ba4775e.css.map": "/eduhub/static/css/main.0ba4775e.css.map",
+    "main.b219ce26.js.map": "/eduhub/static/js/main.b219ce26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba4775e.css",
+    "static/js/main.b219ce26.js"
+  ]
+}
